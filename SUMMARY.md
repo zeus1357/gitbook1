@@ -6,15 +6,23 @@
 
 * [Windows Server](undefined/windows-server/README.md)
   * [Windows Server 2022](undefined/windows-server/windows-server-2022.md)
-* [Creating your first task](undefined/creating-your-first-task.md)
-* [Advanced permissions](undefined/advanced-permissions.md)
+* [SQL Server](undefined/sql-server/README.md)
+  * [SQL Server 2019](undefined/sql-server/sql-server-2019.md)
+* [UNIERP Server](undefined/unierp-server/README.md)
+  * [UNIERP Server V5.5](undefined/unierp-server/unierp-server-v5.5.md)
+  * [UNIERP Server V6.0](undefined/unierp-server/unierp-server-v6.0.md)
+* [OZReport](undefined/ozreport/README.md)
+  * [OZReport8](undefined/ozreport/ozreport8.md)
+* [방화벽](undefined/undefined.md)
+* [UNIERP Client](undefined/unierp-client.md)
+* [UNIERP Patch](undefined/unierp-patch.md)
 
-## Fundamentals
+## OpenSquare(열린광장)
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](opensquare/projects.md)
+* [Members](opensquare/members.md)
+* [Task Lists](opensquare/task-lists.md)
+* [Tasks](opensquare/tasks.md)
 
 ## Use Cases
 

@@ -34,12 +34,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [windows-server](undefined/windows-server/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined/creating-your-first-task.md" %}
-[creating-your-first-task.md](undefined/creating-your-first-task.md)
+{% content-ref url="undefined/sql-server/" %}
+[sql-server](undefined/sql-server/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined/advanced-permissions.md" %}
-[advanced-permissions.md](undefined/advanced-permissions.md)
+{% content-ref url="undefined/unierp-server/" %}
+[unierp-server](undefined/unierp-server/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="opensquare/projects.md" %}
+[projects.md](opensquare/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="opensquare/members.md" %}
+[members.md](opensquare/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="opensquare/task-lists.md" %}
+[task-lists.md](opensquare/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="opensquare/tasks.md" %}
+[tasks.md](opensquare/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

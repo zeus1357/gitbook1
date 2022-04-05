@@ -30,16 +30,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="undefined/windows-server/" %}
-[windows-server](undefined/windows-server/)
+{% content-ref url="setup/windows-server/" %}
+[windows-server](setup/windows-server/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined/sql-server/" %}
-[sql-server](undefined/sql-server/)
+{% content-ref url="setup/sql-server/" %}
+[sql-server](setup/sql-server/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined/unierp-server/" %}
-[unierp-server](undefined/unierp-server/)
+{% content-ref url="setup/unierp-server/" %}
+[unierp-server](setup/unierp-server/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="undefined-1/opensquare/" %}
-[opensquare](undefined-1/opensquare/)
+{% content-ref url="userguide/opensquare/" %}
+[opensquare](userguide/opensquare/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/unierp/" %}
-[unierp](undefined-1/unierp/)
+{% content-ref url="userguide/unierp/" %}
+[unierp](userguide/unierp/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/pdw/" %}
-[pdw](undefined-1/pdw/)
+{% content-ref url="userguide/pdw/" %}
+[pdw](userguide/pdw/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/gitbook.md" %}
-[gitbook.md](undefined-1/gitbook.md)
+{% content-ref url="userguide/gitbook.md" %}
+[gitbook.md](userguide/gitbook.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

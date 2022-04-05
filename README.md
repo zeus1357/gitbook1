@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="opensquare/projects.md" %}
-[projects.md](opensquare/projects.md)
+{% content-ref url="undefined-1/opensquare/" %}
+[opensquare](undefined-1/opensquare/)
 {% endcontent-ref %}
 
-{% content-ref url="opensquare/members.md" %}
-[members.md](opensquare/members.md)
+{% content-ref url="undefined-1/unierp/" %}
+[unierp](undefined-1/unierp/)
 {% endcontent-ref %}
 
-{% content-ref url="opensquare/task-lists.md" %}
-[task-lists.md](opensquare/task-lists.md)
+{% content-ref url="undefined-1/pdw/" %}
+[pdw](undefined-1/pdw/)
 {% endcontent-ref %}
 
-{% content-ref url="opensquare/tasks.md" %}
-[tasks.md](opensquare/tasks.md)
+{% content-ref url="undefined-1/gitbook.md" %}
+[gitbook.md](undefined-1/gitbook.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
